@@ -1,0 +1,42 @@
+{
+  "notes": [
+    {
+      "content": "This is just a test",
+      "id": 1
+    },
+    {
+      "content": "This is just another test",
+      "id": 2
+    },
+    {
+      "content": "This is third test",
+      "id": 3
+    },
+    {
+      "content": "This is awesome!",
+      "id": 4
+    }
+  ],
+  "persons": [
+    {
+      "name": "mluukkai",
+      "number": "040-XXXXXXX",
+      "id": 1
+    },
+    {
+      "name": "juanhy",
+      "number": "045-XXXXXXX",
+      "id": 2
+    },
+    {
+      "name": "ralait",
+      "number": "040-XXXXXXX",
+      "id": 3
+    },
+    {
+      "name": "nevski",
+      "number": "040-XXXXXXX",
+      "id": 4
+    }
+  ]
+}

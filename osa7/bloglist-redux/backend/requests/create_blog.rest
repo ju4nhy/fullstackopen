@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/blogs/
+Content-Type: application/json 
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Imp1YW5oeSIsImlkIjoiNjIzNDg4OTk3NjVhZjNkOTdmNGRiODMyIiwiaWF0IjoxNjQ3OTQwNDgwLCJleHAiOjE2NDc5NDQwODB9.QnWNlfCAaS2EZtEfEmABFevxuPeHEzcIuqcXWIPy98o
+
+{ 
+    "title": "This can be deleted 2",
+    "author": "juanhy",
+    "url": "http://www.travelbloooog2.fi"
+}
